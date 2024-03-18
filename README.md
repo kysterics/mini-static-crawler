@@ -4,8 +4,8 @@ Mini Static Crawler
 <details>
   <summary>GIF demo</summary>
   
-  https://ptpimg.me/l48mm0.gif
-  ![demo](https://camo.githubusercontent.com/9cc1f513b1c9a90511723366ca210e224dcbe241592556bb96c71678488bc1e6/68747470733a2f2f707470696d672e6d652f6c34386d6d302e676966)
+  Use [this link](https://ptpimg.me/l48mm0.gif) if the GIF fails to render.
+  ![demo](https://ptpimg.me/l48mm0.gif)
 </details>
 <br>
 
