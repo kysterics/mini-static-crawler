@@ -3,9 +3,9 @@ Mini Static Crawler
 ### A basic but versatile web crawler built to save static webpages in HTML.
 <details>
   <summary>GIF demo</summary>
-  
-  Use [this link](https://ptpimg.me/l48mm0.gif) if the GIF fails to render.
+
   ![demo](https://ptpimg.me/l48mm0.gif)
+  :warning: Use [this link](https://ptpimg.me/l48mm0.gif) if the GIF fails to render.
 </details>
 <br>
 
