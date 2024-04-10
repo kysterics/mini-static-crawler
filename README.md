@@ -5,17 +5,17 @@ Mini Static Crawler
 <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/4d1c0307-a89e-453e-b40a-9711ab137a45"></video>
 
 <details>
-  <summary>Result (French Wiktionary dictionary) demo</summary>
-  <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/0900768b-d629-48b8-a3de-3121beff2843"></video>
-
+  <summary>Result (French Wiktionary dictionary) demo</summary><br>
+  
   > <picture>
   >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
   >   <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
   > </picture><br>
   >
-  > Unmute for sound
-</details>
-<br>
+  > Unmute for sound!
+
+  <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/0900768b-d629-48b8-a3de-3121beff2843"></video>
+</details><br>
 
 Usage notes
 -----------------------------
