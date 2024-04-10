@@ -1,6 +1,6 @@
 Mini Static Crawler
 ===========================================
-### A basic but versatile web crawler built to save static webpages in HTML.
+### A basic but versatile crawler built to save static webpages in HTML.
 <details>
   <summary>GIF demo</summary>
 
