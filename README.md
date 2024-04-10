@@ -2,15 +2,17 @@ Mini Static Crawler
 ===========================================
 ### A basic but versatile crawler built to save static webpages in HTML.
 
-<video src="https://github.com/kysterics/mini-static-crawler/blob/0fef28eb055f10db9aa5398a3e24cbff2a57ba09/demo/msc-demo.mp4" alt="msc demo"></video>
-<video src="https://github.com/kysterics/mini-static-crawler/blob/0fef28eb055f10db9aa5398a3e24cbff2a57ba09/demo/result-demo.mp4" alt="result demo"></video>
 <details>
-  <summary>GIF demo</summary>
+  <summary>Script demo</summary>
 
   ![demo](https://ptpimg.me/l48mm0.gif)
   :warning: Use [this link](https://ptpimg.me/l48mm0.gif) if the GIF fails to render.
 </details>
-<br>
+
+<details>
+  <summary>Result demo</summary>
+  <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/0900768b-d629-48b8-a3de-3121beff2843" alt="result demo"></video>
+</details>
 
 Usage notes
 -----------------------------
