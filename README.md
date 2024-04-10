@@ -4,14 +4,12 @@ Mini Static Crawler
 
 <details>
   <summary>Script demo</summary>
-
-  ![demo](https://ptpimg.me/l48mm0.gif)
-  :warning: Use [this link](https://ptpimg.me/l48mm0.gif) if the GIF fails to render.
+  <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/418eeea5-c3d5-412f-a995-52f409c86d9f"></video>
 </details>
 
 <details>
   <summary>Result demo</summary>
-  <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/0900768b-d629-48b8-a3de-3121beff2843" alt="result demo"></video>
+  <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/0900768b-d629-48b8-a3de-3121beff2843"></video>
 </details>
 
 Usage notes
