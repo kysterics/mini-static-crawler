@@ -1,6 +1,9 @@
 Mini Static Crawler
 ===========================================
 ### A basic but versatile crawler built to save static webpages in HTML.
+
+<video src="https://github.com/kysterics/mini-static-crawler/blob/main/demo/msc-demo.mp4" alt="msc demo">
+<video src="https://github.com/kysterics/mini-static-crawler/blob/main/demo/result-demo.mp4" alt="result demo">
 <details>
   <summary>GIF demo</summary>
 
