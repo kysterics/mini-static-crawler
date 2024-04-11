@@ -2,7 +2,7 @@ Mini Static Crawler
 ===========================================
 ### A basic but versatile crawler built to save static webpages in HTML.
 
-<video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/4d1c0307-a89e-453e-b40a-9711ab137a45"></video>
+<video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/a44079d6-fb18-4900-9bf0-7bae22bbc94d"></video>
 
 <details>
   <summary>Result (French Wiktionary dictionary) demo</summary>
