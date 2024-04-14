@@ -17,6 +17,18 @@ Mini Static Crawler
 
 </details><br>
 
+Features
+-----------------------------
+* Auto-retry
+* Recursive search
+* Progress preservation
+* Multiprocessing
+* Progress monitoring
+* Logging for request attempts
+* Error handling
+* Configurable css filter
+* http2 support
+
 Usage notes
 -----------------------------
 * Python >=3.10 is recommended.
