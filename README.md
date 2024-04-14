@@ -1,11 +1,11 @@
 Mini Static Crawler
 ===========================================
-### A basic but versatile crawler built to save static [webpages in HTML](#123).
+### A basic but versatile crawler built to save static webpages in HTML.
 
 <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/a44079d6-fb18-4900-9bf0-7bae22bbc94d"></video>
 
 <details>
-  <summary name="123">Result (French Wiktionary dictionary) demo</summary>
+  <summary name="result-demo">Result (French Wiktionary dictionary) demo</summary>
   
   <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/0900768b-d629-48b8-a3de-3121beff2843"></video>
   > <picture>
@@ -19,14 +19,14 @@ Mini Static Crawler
 
 Features
 -----------------------------
-* Auto-retry
-* Recursive search
-* Progress preservation
-* Multiprocessing
-* Progress monitoring
-* Logging for request attempts
-* Error handling
-* Configurable css filter
+* auto-retry
+* recursive search
+* progress preservation
+* multiprocessing
+* progress monitoring
+* logging for request attempts
+* error handling
+* configurable css filter
 * http2 support
 
 Usage notes
