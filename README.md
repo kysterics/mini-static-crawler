@@ -4,7 +4,7 @@ Mini Static Crawler
 
 <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/a44079d6-fb18-4900-9bf0-7bae22bbc94d"></video>
 
-<details open>
+<details>
   <summary name="result-demo">Result (French Wiktionary dictionary) demo</summary>
   
   <video src="https://github.com/kysterics/mini-static-crawler/assets/63026996/0900768b-d629-48b8-a3de-3121beff2843"></video>
