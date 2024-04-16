@@ -28,6 +28,7 @@ Features
 * error handling
 * configurable css filter
 * http2 support
+<br>
 
 Configurations
 -----------------------------
