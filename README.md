@@ -28,6 +28,23 @@ Features
 * error handling
 * configurable css filter
 * http2 support
+
+Configuration
+-----------------------------
+The configurable options availale along with their default values are listed below:
+
+```python
+# scraper config
+process_count = 12
+cookies = {}
+headers = {}
+
+# scraping range
+recursive = False
+base = ('', )  # base url(s), only required if recursive = True
+seed = {f'https://fr.wiktionary.org/?curid={i}' for i in range(1111111)}
+entry_css = {'.ns-0', '.ns-14', '.ns-100', '.ns-102', '.ns-104', '.ns-106', '.ns-110', '.ns-114', '.ns-118'}  # css elements to keep
+```
 <br>
 
 Usage notes
