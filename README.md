@@ -35,7 +35,7 @@ The configurable options availale along with example values are listed below:
 
 ```python
 # scraper config
-process_count = 12  # adjust to increase the no. of workers
+process_count = 12  # to adjust the no. of workers in the process pool
 cookies = {}
 headers = {}
 
