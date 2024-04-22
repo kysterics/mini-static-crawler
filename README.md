@@ -61,4 +61,4 @@ Usage notes
 * The script is set up to scrape fr.wiktionary.org for demonstration purposes.
 * Variables including those under `# scraper config` and `# scraping range` need to be modified accordingly for different websites.
 
-[^1]: The target to crawl must have a unique url so cannot be dynamic, hence 'static'.
+[^1]: The target must have a unique url so cannot be dynamic, hence 'static'.
